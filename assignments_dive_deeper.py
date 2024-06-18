@@ -43,7 +43,7 @@ elif x == z > y:
 elif y == x < z:
     print("Two numbers are equal and the smallest!")
 elif y == z < x:
-    print ("Two number are equal and the smallest!")
-elif x == z < y:
-    print ("Two number are equal and the smallest!")
+    print ("Two numbers are equal and the smallest!")
+else:
+    print ("Two numbers are equal and the smallest!")
 
